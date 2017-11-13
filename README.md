@@ -1,3 +1,5 @@
+# I'm not owner of this package. It is an adaptation.
+
 # Laravel 5 Shopping Cart
 [![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
 [![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
@@ -10,7 +12,7 @@ A Shopping Cart Implementation for Laravel Framework
 Install the package through [Composer](http://getcomposer.org/). 
 
 For Laravel >=5.4:
-```composer require "publiux/laravelshoppingcart:~4.0"```
+```composer require angallego/laravelshoppingcart```
 
 ## CONFIGURATION
 
