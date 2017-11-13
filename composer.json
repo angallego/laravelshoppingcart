@@ -1,5 +1,5 @@
 {
-    "name": "publiux/laravelshoppingcart",
+    "name": "angallego/laravelshoppingcart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
@@ -11,6 +11,10 @@
         {
             "name": "Raul Ruiz",
             "email": "publiux@gmail.com"
+        },
+        {
+            "name": "Agallego",
+            "email": "agallego.dev@gmail.com"
         }
     ],
     "require": {
